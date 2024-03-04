@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_analytics_analytic_pages",
+  "info": {
+    "displayName": "AnalyticPage",
+    "icon": "briefcase",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string",
+      "default": "AnalyticTitle"
+    }
+  }
+}
