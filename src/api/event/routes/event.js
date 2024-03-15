@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * analytic router
+ * event router
  */
 
 const { createCoreRouter } = require('@strapi/strapi').factories;
 
-module.exports = createCoreRouter('api::analytic.analytic');
+module.exports = createCoreRouter('api::event.event');

@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * analytic controller
+ * event controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
-module.exports = createCoreController('api::analytic.analytic');
+module.exports = createCoreController('api::event.event');
